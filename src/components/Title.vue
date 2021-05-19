@@ -10,6 +10,19 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
+ *{
+     margin:0;
+     padding:0;
+     box-sizing: border-box; 
+ }
 
+header{
+    height: 100px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
 </style>
