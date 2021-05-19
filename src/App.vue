@@ -6,6 +6,8 @@
 
      <Hero />
 
+     <Footer />
+
   </div>
 
 </template>
@@ -14,17 +16,20 @@
 
   import Title from '@/components/Title.vue'
   import Hero from '@/components/Hero.vue'
+  import Footer from '@/components/Footer.vue'
+
 export default {
   name: 'App',
   components: {
     Title,
-    Hero
+    Hero,
+    Footer
   }
 }
 </script>
 
-<style lang="scss">
-#app {
-  
-}
+<style lang="scs">
+
+
+
 </style>

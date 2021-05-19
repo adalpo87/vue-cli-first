@@ -5,15 +5,7 @@
       Eos voluptas ad ea esse nihil veniam asperiores saepe amet alias tempora nobis ipsum minima accusamus quo itaque debitis voluptate dolorum impedit sunt veritatis repellat, assumenda facere corporis incidunt. Tempore.
       Sed culpa odit harum ipsam explicabo ipsa, eos, molestiae necessitatibus quidem reiciendis dolore! Blanditiis inventore ad maxime officiis quo, iure molestias quod amet perferendis. Neque autem libero sint iste adipisci!
       Autem facere eaque est delectus enim provident ipsum esse natus excepturi maxime ea blanditiis, odio modi, labore ullam iusto adipisci dolores sint similique omnis. Dolor aspernatur harum aut at blanditiis?
-      Temporibus quo voluptate expedita, blanditiis sapiente recusandae alias corrupti sit vel excepturi iusto libero illo quod nesciunt eveniet rerum! Non, quibusdam enim. Suscipit aperiam ut deleniti nesciunt enim tenetur placeat!
-      Earum quod possimus eius tempora tenetur perspiciatis facilis deserunt quo nulla reiciendis alias, fuga velit praesentium et in odio quisquam rem libero expedita, amet autem consequuntur vero. Placeat, laudantium eaque.
-      At ut, neque quae repellat id modi harum porro in! Nihil quae labore, sit natus officiis est iusto facere, maiores modi vel earum ipsa. Eum nemo minima dignissimos distinctio error.
-      Aut at, eveniet quibusdam optio ipsam reprehenderit molestias impedit vel in sequi hic saepe neque obcaecati ut numquam aliquam modi sint labore, eligendi ad? Sapiente iure reiciendis excepturi ut asperiores?
-      Eius, atque provident quae reprehenderit beatae voluptate ipsa sint odit nobis minima excepturi inventore distinctio praesentium nisi quod itaque officiis dolorum necessitatibus dolore, ad ex nam molestiae! Dolore, sit provident.
-      Tenetur quibusdam rem, eius aliquam earum nihil consequuntur aliquid, totam minima molestiae omnis maxime dolorum veritatis animi saepe officiis nostrum voluptate magni atque dolorem beatae voluptatibus aspernatur rerum amet. Veniam?
-      Harum, ipsam ex consequatur in vel doloribus dicta debitis officia ab eos? Soluta nobis excepturi vero suscipit ut minus praesentium veniam nihil sint eos iste, quae non. Placeat, odit distinctio.
-      Non delectus ea laborum aperiam animi porro earum quisquam assumenda distinctio magni iste nisi odio, itaque laboriosam minima tempore id labore! Expedita deleniti quidem ab accusamus repudiandae facilis accusantium voluptatum.
-      Nam expedita vel ab, eaque in maxime fugit harum consequatur earum! Corrupti temporibus dicta doloremque nam, inventore enim officia distinctio aliquid. Placeat vitae fugit, nemo quaerat aliquid assumenda sequi doloremque.
+      Temporibus quo voluptate expedita, harum consequatur earum! Corrupti temporibus dicta doloremque nam, inventore enim officia distinctio aliquid. Placeat vitae fugit, nemo quaerat aliquid assumenda sequi doloremque.
       Nisi libero quibusdam repudiandae, voluptas eligendi, exercitationem suscipit aliquid omnis voluptatem consequuntur mollitia ratione animi doloribus perspiciatis provident reiciendis dolore? Magnam ipsum nesciunt nisi consequatur expedita sit vitae at hic.
       Consequatur qui suscipit exercitationem et rerum est ipsum animi repudiandae voluptatum numquam eum voluptatibus voluptate id impedit beatae magni ipsam, nihil nulla! Quia quod unde officia accusamus nam at odio!
       Ratione laudantium odio, pariatur delectus voluptate ullam minima. Ullam voluptates autem at placeat voluptatum quo dolore minima, eaque eius earum temporibus laudantium dolores quisquam officia quam qui, nemo repudiandae aliquam.
@@ -33,7 +25,6 @@ export default {
 
 <style scoped>
     .jumbotron{
-        height: calc(100vh - 100px);
         width: 70%;
         margin: auto;
         display: flex;
