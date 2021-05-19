@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style>
-
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
 </style>

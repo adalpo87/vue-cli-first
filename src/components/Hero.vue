@@ -1,6 +1,6 @@
 <template>
   <div class="jumbotron">
-      <img src="/img/nava.jpg" alt="">
+      <img src="/img/nave.jpg" alt="">
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere fugit iste, temporibus deserunt dolorum quam unde explicabo molestias, illo repudiandae sunt consectetur minima placeat corrupti dicta quia mollitia suscipit quasi?
       Aperiam nihil, accusamus, ut dicta veniam nulla, molestias eveniet laudantium deleniti dolorum et maiores. Consectetur dolore minima nesciunt facilis debitis dolorem adipisci, animi reiciendis, a cumque soluta nisi fugit sunt.
       Eos voluptas ad ea esse nihil veniam asperiores saepe amet alias tempora nobis ipsum minima accusamus quo itaque debitis voluptate dolorum impedit sunt veritatis repellat, assumenda facere corporis incidunt. Tempore.
@@ -25,6 +25,9 @@ export default {
 </script>
 
 <style scoped>
+    *{
+        font-family: 'Roboto', sans-serif;
+    }
     .jumbotron{
         width: 70%;
         margin: auto;
@@ -33,16 +36,14 @@ export default {
         margin-top: 50px;
         background-color: rgb(157, 230, 205);
         border-radius: 10px;
-    };
+    }
     .jumbotron p{
         padding: 20px 30px;
         font-size: 20px;
         line-height: 30px;
     }
     img{
-        width: 400px;
-        height: 400px;
+        width: 200px;
+        height: 200px;
     }
-
-    
 </style>
